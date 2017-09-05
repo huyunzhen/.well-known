@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.yunzhenhu.myapplication",
+      "sha256_cert_fingerprints": ["2F:58:F9:2F:3A:7A:3D:12:62:27:86:5D:ED:DD:33:8B:C9:89:60:48:79:80:80:09:82:5C:59:3F:4A:96:62:EC"]
+    }
+  }
+]
